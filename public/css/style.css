@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#menu-container {
+    background-color: hsl(0, 0%, 84%);
+    padding: 15px;
+    border-radius: 8px;
+}
